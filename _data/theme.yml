@@ -94,7 +94,7 @@ bootswatch: cyborh
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#11ea4cf"
+text-color: "#1ea4cf"
 link-color: "#d97b7b"
 base-font-family: papyrus
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
